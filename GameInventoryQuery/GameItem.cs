@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+class GameItem
+{
+    public string Name;
+    public string Type;
+    public string Grade;
+    public int Price;
+    public int Quantity;
+
+    public GameItem(string name, string type, string grade, int price, int quantity)
+    {
+        Name = name;
+        Type = type;
+        Grade = grade;
+        Price = price;
+        Quantity = quantity;
+    }
+}
