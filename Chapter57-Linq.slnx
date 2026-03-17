@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CodingPractice-01\CodingPractice-01.csproj" />
+  <Project Path="CodingPractice-02\CodingPractice-02.csproj" />
+  <Project Path="ProductQuery\ProductQuery.csproj" />
+  <Project Path="GameInventoryQuery\GameInventoryQuery.csproj" />
+  <Project Path="StudentScore\StudentScore.csproj" />
+</Solution>
